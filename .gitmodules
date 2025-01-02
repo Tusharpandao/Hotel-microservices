@@ -7,3 +7,6 @@
 [submodule "hotelservice"]
 	path = hotelservice
 	url = https://github.com/Tusharpandao/hotel-manage-hotel-Service.git
+[submodule "service_registry"]
+	path = service_registry
+	url = https://github.com/Tusharpandao/hotel-manage-service-registry.git
