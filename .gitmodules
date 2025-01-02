@@ -1,3 +1,6 @@
 [submodule "userservice"]
 	path = userservice
 	url = https://github.com/Tusharpandao/hotel-manage-user-service.git
+[submodule "ratingservice"]
+	path = ratingservice
+	url = https://github.com/Tusharpandao/hotel-manage-rating-service.git
